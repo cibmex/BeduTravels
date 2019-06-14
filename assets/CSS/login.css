@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Sorce Sans Pro',Arial, Helvetica, sans-serif;    
+}
+
+nav {
+    height: 7vh;
+    background-color: black;    
+    padding: 20px;
+}
+
+h1{
+    margin: 30px;
+}
+
+h3{
+    text-align: left;
+    width: 75%;
+    margin: 20px auto;
+    margin-bottom: 5px;
+} 
+
+h5{
+    text-align: left;
+    width: 75%;
+    margin: 20px auto;
+    margin-bottom: 5px;
+} 
+
+button{
+    margin: 20px;
+    padding: 10px;
+}
+
+footer{
+    background-color: black;
+    color: white;    
+}
+
+footer > div > p{
+    margin: 0px;
+    padding: 0;
+}
+
+.login{
+    background-color:lightgray; 
+    padding: 1px;
+}
+
+.login-form{
+    margin: 30px auto;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: whitesmoke; 
+    background-color: whitesmoke; 
+    width: 80vw; 
+    box-sizing: border-box;
+    align-self: auto;
+    text-align: center;
+}
+
+.register{
+    background-color:lightgray; 
+    padding: 1px;
+}
+.login-form-inputs{
+    width: 75%;
+}
+.register-form{
+    margin: 30px auto;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: whitesmoke; 
+    background-color: whitesmoke; 
+    width: 80vw; 
+    box-sizing: border-box;
+    align-self: auto;
+    text-align: center;
+}
+
+.register-form-inputs{
+    width: 75%;
+}
+.footer-detail{
+    height: 6vh;
+    width: 200px;
+    /* border: 1px solid green; */
+    color:white;
+    padding: 14px;
+    font-size: 14px;
+}
