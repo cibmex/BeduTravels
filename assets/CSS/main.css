@@ -1,0 +1,96 @@
+nav {
+  height: 7vh;
+  background-color: black;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between; }
+  nav a {
+    color: white; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Sorce Sans Pro", Arial, Helvetica, sans-serif; }
+
+h1 {
+  margin: 30px;
+  margin-top: 60px;
+  text-align: center; }
+
+h3 {
+  text-align: left;
+  width: 75%;
+  margin: 20px auto;
+  margin-bottom: 5px; }
+
+h5 {
+  text-align: left;
+  width: 75%;
+  margin: 20px auto;
+  margin-bottom: 5px; }
+
+button {
+  margin: 5px;
+  padding: 5px;
+  width: 25px;
+  height: 25px;
+  background-image: url("https://www.shareicon.net/data/128x128/2016/09/14/829030_lense_512x512.png");
+  background-size: cover;
+  border-style: solid;
+  color: white; }
+
+.portada {
+  text-align: center;
+  background-image: url("https://trucoslondres.com/wp-content/uploads/2017/05/playa.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 30vw;
+  padding: 30px; }
+
+.portada-titulo {
+  color: white; }
+
+.portada-buscador {
+  width: 300px;
+  margin: 50px auto;
+  background-color: whitesmoke;
+  border: 1px solid red;
+  border-radius: 3px;
+  padding: 0; }
+
+.destinos {
+  text-align: center;
+  align-content: center; }
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; }
+
+.box {
+  /* border: 1px solid red; */
+  width: 350px;
+  height: 200px;
+  text-align: center;
+  box-sizing: border-box;
+  margin: 10px; }
+
+.places {
+  width: 100%;
+  height: 80%; }
+
+footer {
+  background-color: black;
+  color: white; }
+  footer .footer-detail {
+    height: 6vh;
+    width: 200px;
+    /* border: 1px solid green; */
+    color: white;
+    padding: 15px;
+    font-size: 15px; }
+  footer div > p {
+    margin: 0;
+    padding: 0; }
+
+/*# sourceMappingURL=main.css.map */

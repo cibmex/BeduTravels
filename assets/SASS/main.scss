@@ -1,0 +1,14 @@
+@import "variables";
+@import "nav";
+@import "body";
+@import "footer";
+
+%boton-padre{
+    height: 100px;
+    width: 200px;
+}
+
+.boton-warning{
+    @extend %boton-padre;
+    background-color: yellowgreen;
+}

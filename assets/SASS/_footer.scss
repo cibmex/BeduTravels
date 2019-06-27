@@ -1,0 +1,20 @@
+footer{
+    background-color: $black;
+    color: $white;    
+    .footer-detail{
+        height: 6vh;
+        width: 200px;
+        /* border: 1px solid green; */
+        color:$white;
+        padding: $sm;
+        font-size: $sm;
+    }
+
+    div > p{
+        margin: $zero;
+        padding: $zero;
+    }
+
+    }
+
+

@@ -1,0 +1,11 @@
+nav {
+    height: 7vh;
+    background-color: $primary-color;    
+    padding: $md;
+    display: flex;
+    justify-content: space-between;
+    
+    a {
+        color: $white;
+    }
+    }
